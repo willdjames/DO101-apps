@@ -5,7 +5,7 @@ app.get('/', function (req, res) {
   res.send('Hello World!\n');
 });
 
-app.get('/helo-dev', function (req, res) {
+app.get('/hello-dev', function (req, res) {
   res.send('Hello Dev Mui Loko!\n');
 });
 
